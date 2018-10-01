@@ -1,0 +1,32 @@
+/* Hobbies layout-setup */
+li a {
+  color: blue;
+  text-align: right;
+  font-style: normal;
+  font-size: 50px;
+  text-decoration: none;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.tag {
+    background-color: #e8ebef;
+    color: black;
+    padding: 7px;
+    border-radius: 15px;
+    display: table;
+    margin: 10px auto;
+}
+
+.lined {
+  font-size: 15px;
+  text-align: left;
+  color: black;
+  }
